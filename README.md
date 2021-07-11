@@ -1,2 +1,2 @@
-# Text-Summarization---GLoVe
+# Text-Summarization - GLoVe
 We use GLoVe to summarize articles.
